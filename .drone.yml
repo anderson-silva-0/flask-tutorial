@@ -1,0 +1,5 @@
+pipeline:
+  build:
+    image: debian
+    commands:
+      - echo "hello world"
